@@ -45,6 +45,7 @@ WaterConsumptionProject/
 └── correlation_heatmap.png
 
 Analyses & Results
+
 1️⃣ Global Total Water Consumption Trend
 
 Graph: ![alt text](graphs/total_water_consumption_trend.png)
@@ -146,9 +147,8 @@ Correlation insights reveal hidden links between environmental and consumption f
 
 ## 🚀 How to Run the Project
 
-1️⃣ Clone the repository:
-
 ```bash
+1️⃣ Clone the repository:
 git clone https://github.com/karun2328/water-consumption-analysis.git
 
 2️⃣ Install required packages: pip install pandas numpy matplotlib seaborn scikit-learn

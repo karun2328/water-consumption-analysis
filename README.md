@@ -148,12 +148,12 @@ Correlation insights reveal hidden links between environmental and consumption f
 ## 🚀 How to Run the Project
 
 ```bash
-1️⃣ Clone the repository:
-git clone https://github.com/karun2328/water-consumption-analysis.git
+1️⃣ Clone the repository: git clone https://github.com/karun2328/water-consumption-analysis.git
 
 2️⃣ Install required packages: pip install pandas numpy matplotlib seaborn scikit-learn
 
 3️⃣ Run the analysis script: python water_analysis.py
+
 All graphs will be saved inside the /graphs folder.
 
 🔗 Dataset Source

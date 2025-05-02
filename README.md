@@ -1,3 +1,49 @@
+# 💧 Water Consumption Data Analysis
+
+This project analyzes global water consumption patterns from 2000 to 2024 using Python. The aim is to uncover trends, correlations, and key insights that can help utilities like **Any Water Authorities or Researchers** anticipate water demand and optimize infrastructure planning.
+
+---
+
+## 📊 Project Overview
+
+We use a cleaned dataset of global water consumption metrics and apply various statistical and visual analysis techniques to explore:
+
+- Total water consumption trends over time
+- Rainfall impact vs. total consumption
+- Sector-wise water use trends (agriculture, industry, households)
+- Per capita water use patterns and future predictions
+- Correlations between key metrics
+
+The analysis is backed by **real-world use cases** relevant to water utility companies and public infrastructure planning.
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Scikit-Learn** (for regression)
+- **VS Code** (for development)
+- **Git & GitHub**
+
+---
+
+## 📂 Project Structure
+WaterConsumptionProject/
+│
+├── cleaned_global_water_consumption.csv
+├── water_analysis.py
+├── README.md
+└── graphs/
+├── total_water_consumption_trend.png
+├── rainfall_vs_total_consumption.png
+├── sector_usage_trend.png
+├── per_capita_usage_trend.png
+└── correlation_heatmap.png
+
 Analyses & Results
 1️⃣ Global Total Water Consumption Trend
 
@@ -70,7 +116,7 @@ Why It Matters:
 
 Tracking per capita use is essential for understanding individual consumption behavior.
 
-Forecasting helps utilities prepare early for expected demand growth and implement awareness or policy changes to control excessive use.
+Forecasting helps utilities prepare early for expected demand growth and implement awareness or policy changes to control excessive use. 
 
 5️⃣ Correlation Heatmap
 
@@ -97,4 +143,22 @@ Agriculture dominates water use, confirming the need for targeted conservation.
 Per capita usage trends and forecasts support infrastructure planning and demand-side management.
 
 Correlation insights reveal hidden links between environmental and consumption factors.
+
+## 🚀 How to Run the Project
+
+1️⃣ Clone the repository:
+
+```bash
+git clone https://github.com/karun2328/water-consumption-analysis.git
+
+2️⃣ Install required packages: pip install pandas numpy matplotlib seaborn scikit-learn
+
+3️⃣ Run the analysis script: python water_analysis.py
+All graphs will be saved inside the /graphs folder.
+
+🔗 Dataset Source
+Kaggle: Global Water Consumption Dataset (2000–2024)
+
+✍️ Author
+Karun Saride
 

@@ -10,7 +10,7 @@ We use a cleaned dataset of global water consumption metrics and apply various s
 
 - Total water consumption trends over time
 - Rainfall impact vs. total consumption
-- Sector-wise water use trends (agriculture, industry, households)
+- Sector-wise water use trends (agriculture, industry, househo
 - Per capita water use patterns and future predictions
 - Correlations between key metrics
 
@@ -131,7 +131,7 @@ Strong correlations indicate important relationships between variables.
 
 Why It Matters:
 
-For utilities like TMWA, identifying which factors are most linked helps in creating better prediction models and refining resource management strategies.
+For utilities like Water Authorities or Researhers, identifying which factors are most linked helps in creating better prediction models and refining resource management strategies.
 
 Key Takeaways:
 
